@@ -4,7 +4,7 @@ import streamlit as st
 st.set_page_config(page_title="Tính Thuế TNCN", page_icon="💸", layout="centered")
 
 # Tiêu đề ứng dụng
-st.title("💸 Ứng dụng tính Thuế thu nhập cá nhân (TNCN)")
+st.title(" Ứng dụng tính Thuế thu nhập cá nhân (TNCN)_ Phương Anh 🌹🌸💐🌺🌼🎊✌️💵💸💰")
 st.write("Công cụ tính thuế thu nhập từ tiền lương, tiền công theo biểu thuế lũy tiến từng phần.")
 
 # --- NHẬP DỮ LIỆU ---
